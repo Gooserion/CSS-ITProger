@@ -1,0 +1,8 @@
+.blue_words {
+  color: blue;
+  font-size: 23px;
+}
+
+div:hover {
+  background-color: blue;
+}
