@@ -1,8 +1,28 @@
-.blue_words {
+/*.blue_words {
   color: blue;
   font-size: 23px;
+}*/
+
+/*div:hover {
+  background-color: blue;
+}*/
+
+
+body {
+    background-image: url("../images/image2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
 }
 
-div:hover {
-  background-color: blue;
+.empty {
+  height: 500px;
+}
+
+#grape {
+  background-image: url("../images/imageGrape.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 1200px;
 }
